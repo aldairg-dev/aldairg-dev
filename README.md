@@ -6,12 +6,6 @@
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="500" />
 </p>
 
-- 👯 Busco colaborar en [Sistema_de_votación_de_estudiantes](https://github.com/2A2G/Sistema_de_votación_de_estudiantes)
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/2A2G?tab=overview&from=2024-10-01&to=2024-10-02](https://github.com/2A2G?tab=overview&from=2024-10-01&to=2024-10-02)
-
-- 📫 Cómo contactarme **[LinkedIn](https://www.linkedin.com/in/aldair-gutierrez-b002a9274/)**
-
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/aldair-gutierrez-b002a9274/" target="_blank">
