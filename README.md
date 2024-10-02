@@ -12,15 +12,15 @@
 
 - 📫 Cómo contactarme **[LinkedIn](https://www.linkedin.com/in/aldair-gutierrez-b002a9274/)**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
+<h3 align="center">Conéctate conmigo:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/aldair-gutierrez-b002a9274/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
+<h3 align="center">Idiomas y herramientas:</h3>
+<p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
@@ -74,4 +74,6 @@
     </a>
 </p>
 
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=2a2g&" alt="2a2g" /></p>
+<p align="center">
+    <img src="URL_DE_LA_IMAGEN" alt="Nueva imagen centrada" width="500" />
+</p>
