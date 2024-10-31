@@ -81,13 +81,13 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Aldair" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical" alt="Streak de Aldair" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Lenguajes principales de Aldair" />
+   <img src="https://github-readme-stats.vercel.app/api?username=2A2G&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Aldair" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2A2G&theme=radical" alt="Streak de Aldair" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2A2G&layout=compact&theme=radical" alt="Lenguajes principales de Aldair" />
 </p>
 
 <h3 align="center">🚀 Let's Connect and Collaborate!</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/aldair-gutierrez-guerrero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="mailto:aldair.tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="mailto:aldairgguer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
