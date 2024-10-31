@@ -6,9 +6,7 @@
 <h3 align="center">Soy Aldair Gutiérrez, Desarrollador Backend 🚀</h3>
 <p align="center">Desarrollador backend colombiano con pasión por crear soluciones escalables y eficientes.</p>
 
-<p align="center">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="500" />
-</p>
+
 
 <h3 align="center">💬 Acerca de mí</h3>
 <p align="center">
