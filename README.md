@@ -25,9 +25,7 @@
 
 <h3 align="center">🚀 Proyectos Destacados</h3>
 <p align="center">
-   <a href="https://github.com/2A2G/StudentChoice"><strong>🔗 Proyecto 1:</strong> Sistema de gestión de reservas</a><br>
-   <a href="https://github.com/tuusuario/proyecto2"><strong>🔗 Proyecto 2:</strong> API REST para gestión de usuarios</a><br>
-   <a href="https://github.com/tuusuario/proyecto3"><strong>🔗 Proyecto 3:</strong> Automatización de tareas con Python</a>
+   <a href="https://github.com/2A2G/StudentChoice"><strong>🔗 Proyecto 1:</strong> Sistema de votación estudiantil</a><br>
 </p>
 
 <h3 align="center">🌐 Idiomas y herramientas:</h3>
