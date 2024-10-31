@@ -8,7 +8,7 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/aldair-gutierrez-guerrero" target="_blank">
+  [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/aldair-gutierrez-guerrero)
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
