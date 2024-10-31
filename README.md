@@ -1,19 +1,16 @@
 
 <h1 align="center">Hola 👋, soy Aldair Gutiérrez</h1>
 <h3 align="center">Desarrollador Backend de Colombia</h3>
-
 <p align="center">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="500" />
 </p>
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-  [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/aldair-gutierrez-guerrero)
+ <a href="https://www.linkedin.com/in/aldair-gutierrez-guerrero" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-
 </p>
-
 <h3 align="center">Idiomas y herramientas:</h3>
 <p align="center">
     <!-- Bases de datos -->
