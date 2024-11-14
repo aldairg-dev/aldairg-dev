@@ -79,7 +79,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=2A2G&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Aldair" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2A2G&theme=radical" alt="Streak de Aldair" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2A2G&layout=compact&theme=radical" alt="Lenguajes principales de Aldair" />
 </p>
 
