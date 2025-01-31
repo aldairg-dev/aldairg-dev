@@ -27,6 +27,7 @@
 <h3 align="center">🚀 Proyectos Destacados</h3>
 <p align="center">
    <a href="https://github.com/2A2G/StudentChoice"><strong>🔗 Proyecto 1:</strong> Sistema de votación estudiantil</a><br>
+    <a href="https://github.com/2A2G/E-Factura"><strong>🔗 Proyecto 2:</strong> Sistema de Facturación Electrónica Inteligente</a><br>
 </p>
 
 <h3 align="center">🌐 Idiomas y herramientas:</h3>
