@@ -4,7 +4,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4E16AQHhQUhWzCJBnA/profile-displaybackgroundimage-shrink_350_1400/B4EZUhuDtDG0AY-/0/1740027477331?e=1745452800&v=beta&t=6girSMx_22BDVnetzulPAjfi0del41YoKzjRM1wqI4M" alt="Banner de Aldair Gutiérrez" width="1000" />
 </p>
 
-<h3 align="center">Soy Aldair Gutiérrez, Desarrollador Backend ⚡</h3>
+<h3 align="center">Soy Aldair Gutiérrez, Software Developer ⚡</h3>
 <p align="center">Apasionado por construir soluciones escalables y eficientes con Laravel, Spring Boot y más.</p>
 
 ---
