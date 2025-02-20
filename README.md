@@ -52,7 +52,7 @@
 
 ### 🐍 Total de Commits
 
-<img src="https://raw.githubusercontent.com/2A2G/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/2A2G/2A2G/output/github-contribution-grid-snake.svg" />
 
 ---
 
