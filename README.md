@@ -12,8 +12,9 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,mysql,postgres,docker,git,linux,postman" />
+   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,mysql,postgres,docker,git,linux,postman" />
 </p>
+
 
 ---
 
