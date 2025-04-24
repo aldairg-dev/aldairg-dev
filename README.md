@@ -1,7 +1,7 @@
 <h1 align="center">🚀 ¡Bienvenido a mi GitHub! 👋</h1>
 
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4E16AQHhQUhWzCJBnA/profile-displaybackgroundimage-shrink_350_1400/B4EZUhuDtDG0AY-/0/1740027477331?e=1745452800&v=beta&t=6girSMx_22BDVnetzulPAjfi0del41YoKzjRM1wqI4M" alt="Banner de Aldair Gutiérrez" width="1000" />
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQHhQUhWzCJBnA/profile-displaybackgroundimage-shrink_350_1400/B4EZUhuDtDG0AY-/0/1740027477331?e=1750896000&v=beta&t=CpSxfb-9Nuwst62cfa8xhkEUqIHpLw5EM-r0wfl7J7A" alt="Banner de Aldair Gutiérrez" width="1000" />
 </p>
 
 <h3 align="center">Soy Aldair Gutiérrez, Software Developer ⚡</h3>
