@@ -207,16 +207,6 @@ currently_learning:
 
 </div>
 
-<div align="center">
-<details>
-<summary>📊 <strong>Detailed GitHub Metrics</strong></summary>
-<br/>
-
-![GitHub metrics](https://metrics.lecoq.io/2A2G?template=classic&config.timezone=America%2FBogota)
-
-</details>
-</div>
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
