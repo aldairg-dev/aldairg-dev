@@ -24,7 +24,8 @@
 ## 🚀 About Me
 
 ```yaml
-name: Aldair Gutiérrez
+name: Aldair Gutiérrez Guerrero
+alias: 2A2G
 located_in: Colombia
 current_job: Software Developer
 education:
