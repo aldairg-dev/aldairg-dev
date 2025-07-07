@@ -130,7 +130,7 @@ currently_learning:
 
 - Backend: Spring Boot, JWT Authentication
 - Database: PostgreSQL with optimized queries
-- Security: OAuth2, Role-based access control
+- Security: Spatie, Role-based access control
 - Frontend: React.js with Material-UI
 
 **Key Features:**
@@ -153,7 +153,7 @@ currently_learning:
 
 - Backend: Laravel 10, RESTful APIs
 - Database: MySQL with indexing optimization
-- Integration: SUNAT API, Payment gateways
+- Integration: Factus sistema de FE Col.
 - Queue: Redis for background processing
 
 **Key Features:**
