@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2A2G&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/2A2G?style=flat-square&color=blueviolet&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aldairg-dev&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/aldairg-dev?style=flat-square&color=blueviolet&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-Backend+Development-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-Colombia-success?style=flat-square" />
 </p>
@@ -25,7 +25,7 @@
 
 ```yaml
 name: Aldair Gutiérrez Guerrero
-alias: 2A2G
+alias: aldairg-dev
 located_in: Colombia
 current_job: Software Developer
 education:
@@ -122,7 +122,7 @@ currently_learning:
 
 ### 🗳️ StudentChoice - Digital Voting Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2A2G/StudentChoice)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldairg-dev/StudentChoice)
 
 **Enterprise-grade voting system** with security features and real-time analytics.
 
@@ -145,7 +145,7 @@ currently_learning:
 
 ### 📜 E-Factura - Digital Billing System
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2A2G/E-Factura)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldairg-dev/E-Factura)
 
 **Automated billing solution** with invoice generation and tax compliance.
 
@@ -169,7 +169,7 @@ currently_learning:
 </div>
 
 <div align="center">
-  <a href="https://github.com/2A2G?tab=repositories">
+  <a href="https://github.com/aldairg-dev?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -183,14 +183,14 @@ currently_learning:
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2A2G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldairg-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td align="center" width="50%">
 
 ### 🎯 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2A2G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldairg-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
@@ -200,11 +200,11 @@ currently_learning:
 <div align="center">
   
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2A2G&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldairg-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2A2G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aldairg-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -222,7 +222,7 @@ I'm always open to discussing new opportunities, innovative projects, or just ha
   <a href="mailto:aldairgguer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://github.com/2A2G" target="_blank">
+  <a href="https://github.com/aldairg-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>
@@ -234,7 +234,7 @@ I'm always open to discussing new opportunities, innovative projects, or just ha
 - 🌱 **Learning**: New technologies and best practices
 - 💼 **Opportunities**: Software Developer roles and growth
 
-<img src="https://raw.githubusercontent.com/2A2G/2A2G/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/aldairg-dev/aldairg-dev/output/github-contribution-grid-snake.svg" />
 
 </div>
 
