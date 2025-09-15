@@ -120,14 +120,14 @@ Plataforma de votación estudiantil **segura y en tiempo real**, con gestión de
 </div>
 
 **🎯 Descripción:**  
-Solución completa de facturación automatizada con integración oficial a DIAN Colombia y procesamiento de pagos.
+E-Factura es un proyecto para implementar la **facturación electrónica en Colombia** según las normas de la **DIAN**, integrando las API de **Factus Halltec**. Automatiza y simplifica el proceso, asegura el cumplimiento legal y optimiza el flujo de trabajo de las empresas.
 
 **⚡ Características:**
 
-- 💼 Generación inteligente de facturas  
-- 📈 Reportes y analíticas avanzadas  
-- 🔄 Integración directa con DIAN  
-- 💳 Soporte para múltiples métodos de pago  
+- 💼 Automatización del ciclo de facturación  
+- 📜 Cumplimiento con normativa DIAN  
+- 🔄 Integración con API de Factus Halltec  
+- 📈 Optimización del flujo de trabajo  
 
 <div align="center">
 
