@@ -80,21 +80,22 @@ currently_learning:
 
 **Sistema de Votación Digital**
 
-![Project Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Project Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Project Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Project Badge](https://img.shields.io/badge/Jetstream-6C63FF?style=for-the-badge&logo=laravel&logoColor=white)
+![Project Badge](https://img.shields.io/badge/Livewire-20232A?style=for-the-badge&logo=livewire&logoColor=61DAFB)
+![Project Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 **🎯 Descripción:**  
-Sistema de votación seguro para instituciones educativas con autenticación JWT y analytics en tiempo real.
+Plataforma de votación estudiantil **segura y en tiempo real**, con gestión de candidatos y resultados inmediatos en una interfaz moderna.
 
-**⚡ Características Principales:**
+**⚡ Características:**
 
-- 🔐 **Seguridad:** Autenticación JWT robusta
-- 📊 **Analytics:** Dashboard interactivo en tiempo real
-- 🎯 **Gestión:** Sistema completo de roles y permisos
-- 📱 **UX/UI:** Interfaz responsive y moderna
+- 🔐 Autenticación de usuarios con Jetstream  
+- 👥 Administración de candidatos  
+- 🗳️ Votación en tiempo real  
+- 🎨 Interfaz responsive y accesible  
 
 <div align="center">
 
@@ -113,20 +114,20 @@ Sistema de votación seguro para instituciones educativas con autenticación JWT
 **Sistema de Facturación Digital**
 
 ![Project Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Project Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Project Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Project Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Project Badge](https://img.shields.io/badge/Livewire-20232A?style=for-the-badge&logo=livewire&logoColor=61DAFB)
 
 </div>
 
 **🎯 Descripción:**  
 Solución completa de facturación automatizada con integración oficial a DIAN Colombia y procesamiento de pagos.
 
-**⚡ Características Principales:**
+**⚡ Características:**
 
-- 💼 **Automatización:** Generación inteligente de facturas
-- 📈 **Business Intelligence:** Reportes y analíticas avanzadas
-- 🔄 **Integración:** Conexión directa con DIAN Colombia
-- 💳 **Pagos:** Soporte para múltiples métodos de pago
+- 💼 Generación inteligente de facturas  
+- 📈 Reportes y analíticas avanzadas  
+- 🔄 Integración directa con DIAN  
+- 💳 Soporte para múltiples métodos de pago  
 
 <div align="center">
 
