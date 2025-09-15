@@ -78,6 +78,7 @@ currently_learning:
 <div align="center">
 
 ### 🗳️ **StudentChoice**
+
 **Sistema de Votación Digital**
 
 ![Project Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -90,8 +91,9 @@ currently_learning:
 Sistema de votación seguro para instituciones educativas con autenticación JWT y analytics en tiempo real.
 
 **⚡ Características Principales:**
+
 - 🔐 **Seguridad:** Autenticación JWT robusta
-- 📊 **Analytics:** Dashboard interactivo en tiempo real  
+- 📊 **Analytics:** Dashboard interactivo en tiempo real
 - 🎯 **Gestión:** Sistema completo de roles y permisos
 - 📱 **UX/UI:** Interfaz responsive y moderna
 
@@ -108,6 +110,7 @@ Sistema de votación seguro para instituciones educativas con autenticación JWT
 <div align="center">
 
 ### 📜 **E-Factura**
+
 **Sistema de Facturación Digital**
 
 ![Project Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -120,6 +123,7 @@ Sistema de votación seguro para instituciones educativas con autenticación JWT
 Solución completa de facturación automatizada con integración oficial a DIAN Colombia y procesamiento de pagos.
 
 **⚡ Características Principales:**
+
 - 💼 **Automatización:** Generación inteligente de facturas
 - 📈 **Business Intelligence:** Reportes y analíticas avanzadas
 - 🔄 **Integración:** Conexión directa con DIAN Colombia
@@ -193,18 +197,6 @@ I'm always open to discussing new opportunities, innovative projects, or collabo
   </a>
   <a href="https://github.com/aldairg-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/aldairgdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://calendly.com/aldairg-dev/30min" target="_blank">
-    <img src="https://img.shields.io/badge/📅_Schedule_Meeting-Book_a_Call-6366F1?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://aldairg-dev.github.io/resume" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Download_CV-Resume-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
