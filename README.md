@@ -36,15 +36,14 @@ focus:
   - System Architecture
 
 currently_learning:
-  - Cloud Technologies (AWS)
   - Advanced Spring Boot
   - System Design Patterns
 ```
 
 **🎓 Educación:**
 
-- Ingeniería de Software
-- Análisis y Diseño de Sistemas
+- Estudiante de Ingeniería de Software
+- Tecnólogo en Desarrollo de Software
 
 </td>
 <td width="300">
@@ -59,7 +58,7 @@ currently_learning:
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,mysql,postgresql,mongodb,docker,aws,linux,git,postman,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,mysql,postgresql,mongodb,docker,linux,git,postman,idea,vscode&theme=dark" />
 </div>
 
 ## 🏆 Proyectos Destacados
